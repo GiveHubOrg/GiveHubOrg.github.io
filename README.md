@@ -1,1 +1,1 @@
-Source code for [givehub.org](http://www.givehub.org) website.
+The [givehub.org](http://www.givehub.org) website.
